@@ -1,0 +1,19 @@
+{
+  "name": "ada-u/property-based-testing-in-php",
+  "description": "",
+  "homepage": "https://github.com/ada-u/property-based-testing-in-php",
+  "authors": [
+    { "name": "ada-u", "email": "ada-u@ada-u.com" }
+  ],
+  "license": "MIT",
+  "require-dev": {
+    "giorgiosironi/eris": "dev-master",
+    "steos/php-quickcheck": "dev-master"
+  },
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Adachi\\": "src/"
+  }
+  }
+}

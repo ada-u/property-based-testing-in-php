@@ -1,0 +1,11 @@
+/vendor
+composer.phar
+composer.lock
+*.iml
+.idea
+.env.*.php
+.env.php
+.DS_Store
+.vagrant
+Thumbs.db
+node_modules
